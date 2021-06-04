@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Biocoded>icky {0}</Biocoded>
+    <CodedFor>icky: {0}</CodedFor>
+    <BiocodedCodedForSomeoneElse>icky</BiocodedCodedForSomeoneElse>
+    <Stat_Thing_Biocoded_Name>Icky</Stat_Thing_Biocoded_Name>
+    <Stat_Thing_Biocoded_Desc>No one is willing to use this because it is icky.</Stat_Thing_Biocoded_Desc>
+</LanguageData>

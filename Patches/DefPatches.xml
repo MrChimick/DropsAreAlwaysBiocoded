@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[@Name="BaseWeapon"]/comps</xpath>
+        <value>
+            <li Class="CompProperties_BiocodableWeapon"/>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[@Name="ApparelNoQualityBase"]/comps</xpath>
+        <value>
+            <li Class="CompProperties_BiocodableApparel"/>
+        </value>
+    </Operation>
+    
+</Patch>
